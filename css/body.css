@@ -1,0 +1,45 @@
+﻿#header div div div div {
+    height: 1%;
+    float: right;
+    padding-bottom: 20px;
+    width: auto;
+}
+
+#header div div#section ul li a {
+    padding: 0;
+}
+
+#content div.home div.section ul li {
+    margin-top: 12px;
+}
+
+#content div div#account div form table tr td label input#rememberme {
+    vertical-align: middle;
+}
+
+#footer div.home div div.section {
+    height: 281px;
+}
+
+#footer div#navigation {
+    margin-top: 40px;
+}
+
+#header div div#section ul li a {
+    padding: 0;
+}
+
+#content div div#account div form table tr td label input#rememberme {
+    vertical-align: middle;
+}
+
+#content div.home div.section ul li {
+    margin-top: 11px;
+}
+
+#footer div.home div div.section {
+    height: 285px;
+}
+#content div.home div.section ul li {
+    margin-top: 11px;
+}
